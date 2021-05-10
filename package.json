@@ -1,0 +1,36 @@
+{
+    "name": "backend-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "alessandromrc",
+    "dependencies": {
+        "bcrypt": "^5.0.0",
+        "clui": "^0.3.6",
+        "cookie-parser": "^1.4.5",
+        "dateformat": "^4.5.1",
+        "express": "^4.17.1",
+        "express-fileupload": "^1.2.1",
+        "form-data": "^4.0.0",
+        "helmet": "^4.5.0",
+        "helmet-csp": "^3.3.1",
+        "https": "^1.0.0",
+        "jsonwebtoken": "^8.5.1",
+        "mongoose": "^5.12.7",
+        "morgan": "^1.10.0",
+        "node-fetch": "^2.6.1",
+        "nodemon": "^2.0.7",
+        "os-utils": "0.0.14",
+        "passport": "^0.4.1",
+        "passport-jwt": "^4.0.0",
+        "qr-image": "^3.2.0",
+        "winston": "^3.3.3"
+    },
+    "devDependencies": {
+        "eslint": "^7.25.0",
+        "eslint-config-google": "^0.14.0"
+    }
+}
