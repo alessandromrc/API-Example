@@ -3,15 +3,6 @@
 // eslint-disable-next-line indent
 /* eslint-disable eol-last */
 
-const categorieutenti = [
-    'Sociologia',
-    'Psicologia',
-    'Comunicazione e marketing',
-    'Sessuologia',
-    'Filosofia',
-    'Antropologia',
-];
-
 const passwordsemplici = [
     '123456',
     'password',
@@ -292,7 +283,6 @@ const Nazioni = [
 ];
 
 module.exports = {
-    categorieutenti,
     passwordsemplici,
     RegioniItaliane,
     Nazioni,
